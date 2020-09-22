@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Hyperlinks </title>
+</head>
+<body>
+
+<h1>De opdracht</h1>
+<p>Maak ook dit document zo nauwkeurig moegelijk na in HTML. Zorg er voor dat er een link naar de <a href="https://luuksn15.github.io/">vorige opdracht</a> staat. </p>
+<h2> Jouw favoriete webpagina</h2>
+<p> Je hebt ongetwijfeld een voor jou <a href= "https://www.youtube.com">Heel dierbare wedsite</a> die in deze opdracht niet kan ontbreken.
+<h3> Contact </h3>
+<p> Mocht een lezer van deze paginga jou berijken kan,hij of zij jou altijd <a href="luuk.schotsman04@gmail.com"> Mailen </a>. <br>
+Mocht een lezer van deze paginga iemand ander mailen dan kan dat <a href="n.graham@springhigh.nl"> hier</a>.</p>
+</body>
+</html>
