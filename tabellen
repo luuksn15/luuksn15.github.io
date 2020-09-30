@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>hoofdstuk 3 Opdracht  2</title>
+</head>
+<body>
+
+<h1>Tabellen, hyperlinks en lijsten</h1>
+<p>Dit is de tweede opdracht van hoofdstuk 3. In deze opdracht maak je een tabel met websites en voeg je <u>lijsten</u> toe.</p>
+<h2> Wat moet je doen?</h2>
+<p> Maak deze opdracht zou nauwkuring moelijk aan in HTML. Doe veder het volgende:</p>
+<ul>
+ <li>Geef &quot;hoofdstuk2 opdracht 3&quot; op als <i>tittel</i> van het HTML-bestandt</li> 
+ <li> Vermeld in de Head ook wie de auteur is van je HTML bestand.</li>
+ <li> Geef tenslote als <i>keywords</i> de worden &quot; tabbelen&quot; en &quot;lijsten&quot; op.</li>
+ </ul>
+<h2> Websit top 3</h2> 
+</body>
+</html>
