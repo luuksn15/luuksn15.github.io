@@ -1,6 +1,17 @@
 body {
-  background-image:url("schaken.png");
+  background-color: red;
+cursor: all-scroll;
+
+}
+h2{
+  background-color: blue;
 }
 h1 {
-  color: blue
+  background-color: green;
+}
+h3{
+  background-color: yellow;
+}
+A{
+  color: black
 }
