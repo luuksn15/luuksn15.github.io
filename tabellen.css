@@ -19,7 +19,7 @@ a{
   color: #677f51;
   text-decoration: none;
 }
-a:hover{
+a :hover{
  text-decoration: underline;
 }
 ul{
