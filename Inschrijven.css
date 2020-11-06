@@ -1,0 +1,95 @@
+
+.foto{
+  background-image: url("https://zonderzooi.com/wp-content/uploads/2020/06/overnachten-in-de-natuur-in-nederland-1.jpg"); 
+grid-column: 1/10;
+grid-row: 2;
+background-repeat: no-repeat;
+text-align: center;
+text-shadow: 1px 1px #ff0000;
+}
+.item6{
+  background-color:white;
+  grid-column: 1/10;
+  grid-row: 1;
+}
+.item11{
+  background-color: lightblue;
+  grid-column: 2;
+  grid-row: 1;
+  text-align: center;
+  border-radius: 50px 50px 50px 50px;
+  box-shadow: 3px 3px grey;
+   color: rgb(6, 77, 6);
+   
+}
+.item12{
+  background-color: lightblue;
+  grid-column: 5;
+  grid-row: 1;
+  text-align: center;
+  border-radius: 50px 50px 50px 50px;
+  box-shadow: 3px 3px grey;
+  color: rgb(6, 77, 6);
+}
+.item13{
+  background-color: lightblue;
+  grid-column: 7;
+  grid-row: 1;
+  text-align: center;
+  border-radius: 50px 50px 50px 50px;
+  box-shadow: 3px 3px grey;
+  color: rgb(6, 77, 6);
+}
+.item14{
+  background-color: lightblue;
+  grid-column: 6;
+  grid-row: 1;
+  text-align: center;
+  border-radius: 50px 50px 50px 50px;
+  box-shadow: 3px 3px grey;
+  color: rgb(6, 77, 6);
+}
+.item15{
+  background-color: lightblue;
+  grid-column: 1;
+  grid-row: 1;
+  text-align: center;
+  border-radius: 50px 50px 50px 50px;
+  box-shadow: 3px 3px grey;
+  color: rgb(6, 77, 6);
+}
+.item16{
+  background-color: lightblue;
+  grid-column: 3;
+  grid-row: 1;
+  text-align: center;
+  border-radius: 50px 50px 50px 50px;
+  box-shadow: 3px 3px grey;
+  color: rgb(6, 77, 6);
+}
+.item17{
+  background-color: lightblue;
+  grid-column: 4;
+  grid-row: 1;
+  text-align: center;
+  border-radius: 50px 50px 50px 50px;
+  box-shadow: 3px 3px grey;
+  color: rgb(6, 77, 6);
+}
+
+.grid-container{ 
+  display: grid;
+   grid-template-columns: 70px 200px 200px 200px 200px 200px 200px  ;
+   grid-template-rows: 50px 200px 200px 200px 200px 200px 200px 200px 200px 200px;
+   justify-content: stretch;
+   grid-gap: 20px;
+   
+  }
+  
+  body{
+      background-image: url(https://thumbs.dreamstime.com/b/white-wood-wall-texture-background-panels-graphic-resources-149622903.jpg);
+      
+  }
+  h1{
+    color: bleu;
+  }
